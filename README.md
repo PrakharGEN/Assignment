@@ -50,10 +50,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Screenshot 2024-11-22 170511](https://github.com/user-attachments/assets/c60dfff9-54db-4500-923b-23eb2604dc75)
-![Screenshot 2024-11-22 170528](https://github.com/user-attachments/assets/fd2d991c-dc3a-4f84-a4fd-7f6248060fe2)
-![Screenshot 2024-11-22 170548](https://github.com/user-attachments/assets/e2b932e7-6818-4847-a7c5-61106193d12d)
-![Screenshot 2024-11-22 170608](https://github.com/user-attachments/assets/51fd6f36-770b-4866-8a79-6a36fdc3d1c0)
+![Screenshot 2024-11-22 170511](https://github.com/user-attachments/assets/74bdf749-87ad-4212-ab5a-5fbb4e1361fd)
+![Screenshot 2024-11-22 170528](https://github.com/user-attachments/assets/f203daf6-1b18-42e3-a471-dda49024e9b7)
+![Screenshot 2024-11-22 170548](https://github.com/user-attachments/assets/1f1e154f-e466-4ae7-a53f-2782ef822bac)
+![Screenshot 2024-11-22 170608](https://github.com/user-attachments/assets/40c15138-7a19-4ec3-beb7-456fa62c0746)
 
 
 
